@@ -1,5 +1,5 @@
 {
-  "name": "my-npm-package",
+  "name": "@jroncal/my-npm-package",
   "version": "0.0.1",
   "description": "An example npm package",
   "main": "dist/index.js",
