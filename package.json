@@ -1,6 +1,6 @@
 {
   "name": "@jroncal/my-npm-package",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "An example npm package",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -28,9 +28,5 @@
     "learning"
   ],
   "author": "jroncal",
-  "license": "MIT",
-  "dependencies": {
-    "axios": "^1.6.7",
-    "lodash": "^4.17.21"
-  }
+  "license": "MIT"
 }
